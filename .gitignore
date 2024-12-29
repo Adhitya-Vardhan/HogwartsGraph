@@ -122,4 +122,4 @@ instance/
 db.sqlite3-journal
 
 # Custom ignores
-# Add any additional directories or files specific to your project
+# Add any additional directories or files specific to your projectmyenv/
